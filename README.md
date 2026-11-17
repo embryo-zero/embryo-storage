@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Storage
+
+**Embryo Storage** is Embryo-Zero's fork of [garage](https://github.com/deuxfleurs-org/garage), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 Garage [![status-badge](https://woodpecker.deuxfleurs.fr/api/badges/1/status.svg)](https://woodpecker.deuxfleurs.fr/repos/1)
 ===
 
